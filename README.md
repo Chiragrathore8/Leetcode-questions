@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0643-maximum-average-subarray-i](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 ## Sliding Window
 |  |
@@ -28,6 +29,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
 | ------- |
