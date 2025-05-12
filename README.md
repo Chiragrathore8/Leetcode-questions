@@ -54,10 +54,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
