@@ -44,8 +44,21 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
