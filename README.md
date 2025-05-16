@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0898-transpose-matrix](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0035-search-insert-position](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
