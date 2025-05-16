@@ -14,6 +14,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
+| [0898-transpose-matrix](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0898-transpose-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,4 +73,12 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0342-power-of-four) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
