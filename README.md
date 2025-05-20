@@ -21,6 +21,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/1677-matrix-diagonal-sum) |
+| [3639-zero-array-transformation-i](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/3639-zero-array-transformation-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [3639-zero-array-transformation-i](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/3639-zero-array-transformation-i) |
 ## Math
 |  |
 | ------- |
