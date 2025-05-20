@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0162-find-peak-element) |
@@ -89,6 +90,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0073-set-matrix-zeroes) |
 | [0777-toeplitz-matrix](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0861-flipping-an-image) |
@@ -98,6 +100,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
