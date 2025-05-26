@@ -66,6 +66,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0342-power-of-four) |
@@ -74,6 +75,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/1013-fibonacci-number) |
