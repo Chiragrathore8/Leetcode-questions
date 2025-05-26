@@ -44,6 +44,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0342-power-of-four) |
