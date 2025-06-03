@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0342-power-of-four) |
@@ -121,4 +122,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0258-add-digits) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
