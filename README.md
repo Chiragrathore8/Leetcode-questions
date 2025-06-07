@@ -130,4 +130,16 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
+## String
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0649-dota2-senate) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0649-dota2-senate) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Chiragrathore8/Leetcode-questions/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
